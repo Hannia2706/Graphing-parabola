@@ -44,5 +44,6 @@ The program gives the correct results. In conclusion, the project served as a me
 ![Image text](https://github.com/Hannia2706/Graphing-parabola/blob/main/figure%205.png)
 
 #Bibliography
-Matplotlib documentation — Matplotlib 3.6.2 documentation. (s. f.). https://matplotlib.org/stable/index.html
+
+Matplotlib documentation — https://matplotlib.org/stable/index.html
 McGrawHill. (27a. C.). Matemáticas 3 (5.a ed.).

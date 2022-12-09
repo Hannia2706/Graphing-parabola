@@ -14,6 +14,8 @@ The program will display a graph of the parabola and print data about it, such a
 The term parabola is defined as: "locus of all points in the plane that are equidistant from a fixed line called directrix and from a fixed point called focus".
 During this project it is expected to graph a parabola given its equation in a general way, as well as present its elements.
 
+https://github.com/Hannia2706/Graphing-parabola/blob/main/figure1.png
+
 # Methodology
 
 For the beginning of the project, the general objective was established, which is to graph a parabola given its equation and present its elements.
